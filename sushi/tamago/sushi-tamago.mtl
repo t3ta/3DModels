@@ -1,0 +1,26 @@
+# Blender MTL File: 'sushi-tamago.blend'
+# Material Count: 2
+
+newmtl Textured.003
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/nkashiba/Downloads/3DModels-master 3/sushi/tamago/texture_657045586244.jpg
+map_Ka /Users/nkashiba/Downloads/3DModels-master 3/sushi/tamago/texture_657045586244.jpg
+
+newmtl Textured.004
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/nkashiba/Downloads/3DModels-master 3/sushi/sumeshi/texture_190251834805.jpg
+map_Ka /Users/nkashiba/Downloads/3DModels-master 3/sushi/sumeshi/texture_190251834805.jpg
